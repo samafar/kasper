@@ -2,9 +2,9 @@
 /**
  * This is the template that displays the Header
  *
- * @link https://github.com/samafar/tiam/blob/master/header.php
+ * @link 
  *
- * @package Tiam
+ * @package Kasper
  */
 ?>
 

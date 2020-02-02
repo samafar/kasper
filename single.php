@@ -2,9 +2,9 @@
 /**
  * The template for displaying all single posts
  *
- * @link https://github.com/samafar/tiam/blob/master/single.php
+ * @link 
  *
- * @package Tiam
+ * @package Kasper
  */
 
 get_header();

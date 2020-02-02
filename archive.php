@@ -2,9 +2,9 @@
 /**
  * The template for displaying archive pages
  *
- * @link https://github.com/samafar/tiam/blob/master/archive.php
+ * @link
  *
- * @package Tiam
+ * @package Kasper
  */
 
 get_header();

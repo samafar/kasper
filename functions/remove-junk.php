@@ -1,8 +1,8 @@
 <?php 
-function tiam_remove_version() {
+function kasper_remove_version() {
 	return '';
 	}
-add_filter('the_generator', 'tiam_remove_version');
+add_filter('the_generator', 'kasper_remove_version');
 
 /*
 function my_deregister_scripts(){

@@ -2,14 +2,14 @@
 /**
  * The template for displaying 404 pages (not found)
  *
- * @link https://github.com/samafar/tiam/blob/master/404.php
+ * @link
  *
- * @package Tiam
+ * @package Kasper
  */
 
 get_header();
 ?>
-<?php esc_html_e('It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'tiam');?>
+<?php esc_html_e('It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'kasper');?>
 
 <?php
 get_search_form();
@@ -17,7 +17,7 @@ get_search_form();
 the_widget('WP_Widget_Recent_Posts');
 ?>
 
-<h2 class="widget-title"><?php esc_html_e('Most Used Categories', 'tiam');?></h2>
+<h2 class="widget-title"><?php esc_html_e('Most Used Categories', 'kasper');?></h2>
 <ul>
   <?php
 wp_list_categories(array(
@@ -32,8 +32,8 @@ wp_list_categories(array(
 
 <?php
 /* translators: %1$s: smiley */
-$tiam_archive_content = '<p>' . sprintf(esc_html__('Try looking in the monthly archives. %1$s', 'tiam'), convert_smilies(':)')) . '</p>';
-the_widget('WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$tiam_archive_content");
+$kasper_archive_content = '<p>' . sprintf(esc_html__('Try looking in the monthly archives. %1$s', 'kasper'), convert_smilies(':)')) . '</p>';
+the_widget('WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$kasper_archive_content");
 
 the_widget('WP_Widget_Tag_Cloud');
 ?>

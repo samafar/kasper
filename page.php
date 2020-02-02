@@ -7,9 +7,9 @@
  * and that other 'pages' on your WordPress site may use a
  * different template.
  *
- * @link https://github.com/samafar/tiam/blob/master/page.php
+ * @link 
  *
- * @package Tiam
+ * @package Kasper
  */
 
 get_header();

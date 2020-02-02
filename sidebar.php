@@ -2,9 +2,9 @@
 /**
  * The sidebar containing the main widget area
  *
- * @link https://github.com/samafar/tiam/blob/master/sidebar.php
+ * @link 
  *
- * @package Tiam
+ * @package Kasper
  */
 
 if ( ! is_active_sidebar( 'sidebar-1' ) ) {

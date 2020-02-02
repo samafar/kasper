@@ -1,10 +1,10 @@
 <?php
 /**
- * Tiam functions and definitions
+ * Kasper functions and definitions
  *
- * @link https://github.com/samafar/tiam/blob/master/functions.php
+ * @link 
  *
- * @package Tiam
+ * @package Kasper
  */
 
 /**Add theme support */

@@ -2,9 +2,9 @@
 /**
  * The template for displaying search results pages
  *
- * @link https://github.com/samafar/tiam/blob/master/search.php
+ * @link 
  *
- * @package Tiam
+ * @package Kasper
  */
 
 get_header();
@@ -13,7 +13,7 @@ get_header();
 <?php 
 
 if (have_posts()): 
-printf(esc_html__('Search Results for: %s', 'tiam'), '<span>' . get_search_query() . '</span>');
+printf(esc_html__('Search Results for: %s', 'kasper'), '<span>' . get_search_query() . '</span>');
 
 while (have_posts()):
     the_post();

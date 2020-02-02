@@ -2,9 +2,9 @@
 /**
  * The main template file
  *
- * @link https://github.com/samafar/tiam/
+ * @link 
  *
- * @package Tiam
+ * @package Kasper
  */
 get_header();
 ?>

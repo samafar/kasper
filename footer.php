@@ -2,8 +2,8 @@
 /**
  * The template for displaying the footer
  *
- * @link https://github.com/samafar/tiam/blob/master/footer.php
- * @package Tiam
+ * @link
+ * @package Kasper
  */
 
 ?>
