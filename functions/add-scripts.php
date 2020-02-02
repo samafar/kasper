@@ -1,7 +1,7 @@
 <?php 
 function kasper_scripts() {
 
-wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Poppins:400,500|Roboto:400&display=swap' );
+wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Muli:400,600,900&display=swap' );
 
 //wp_enqueue_style( 'bootstrap', get_template_directory_uri() . '/inc/css/bootstrap-grid.min.css' );
 
